@@ -1,1 +1,2 @@
 This is a test document.
+something new added to make sure it worked.
